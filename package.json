@@ -1,5 +1,5 @@
 {
-	"name": "fb-chat-api-temp",
+	"name": "fca-rx",
 	"version": "1.0.4",
 	"description": "A Facebook chat API that doesn't rely on XMPP",
 	"scripts": {
@@ -13,7 +13,7 @@
 	},
 	"keywords": [
 		"facebook",
-		"chat",
+		"fca-rx",
 		"api",
 		"fca",
 		"fb-chat-api",
@@ -22,7 +22,7 @@
 	"bugs": {
 		"url": "https://github.com/ntkhang03/fb-chat-api-temp/issues"
 	},
-	"author": "Avery, David, Maude, Benjamin, UIRI, NTKhang (rebuild)",
+	"author": "Avery, David, Maude, Benjamin, UIRI, rX (rebuild)",
 	"license": "MIT",
 	"dependencies": {
 		"https-proxy-agent": "^4.0.0",
